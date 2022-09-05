@@ -18,6 +18,6 @@
 `php artisan help make:model`
 - Scaffold with -a option: migration, controller and model
 `php artisan make:model Model/Product -a`
-`php artisan route:list`` `
+`php artisan route:list`
 `php artisan make:migrate`
 
